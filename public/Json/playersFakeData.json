@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "Adam Clarke",
+    "country": "Australia",
+    "role": "Batsman",
+    "battingStyle": "Right-handed-bat",
+    "bowlingStyle": "N/A",
+    "price": 25000000,
+    "image": "https://i.ibb.co.com/Vjz5HyH/images.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Rajesh Sharma",
+    "country": "India",
+    "role": "Bowler",
+    "battingStyle": "N/A",
+    "bowlingStyle": "Left-handed-ball",
+    "price": 200000,
+    "image": "https://i.ibb.co.com/QjHxBCz/images.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Jacob Taylor",
+    "country": "England",
+    "role": "All-rounder",
+    "battingStyle": "Right-handed-bat",
+    "bowlingStyle": "Left-handed-ball",
+    "price": 300000,
+    "image": "https://i.ibb.co.com/x1MDcRy/images.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Hassan Qureshi",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "battingStyle": "Left-handed-bat",
+    "bowlingStyle": "N/A",
+    "price": 220000,
+    "image": "https://i.ibb.co.com/GTchZcG/images.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Liam O'Connor",
+    "country": "South Africa",
+    "role": "Bowler",
+    "battingStyle": "N/A",
+    "bowlingStyle": "Right-handed-ball",
+    "price": 180000,
+    "image": "https://i.ibb.co.com/mz0kzRx/images.jpg"
+  },
+  {
+    "id": "6",
+    "name": "mahmudullah",
+    "country": "Zimbabwe",
+    "role": "All-rounder",
+    "battingStyle": "Left-handed-bat",
+    "bowlingStyle": "Right-handed-ball",
+    "price": 270000,
+    "image": "https://i.ibb.co.com/mzhxdxf/images.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Abcde Fghi",
+    "country": "England",
+    "role": "All-rounder",
+    "battingStyle": "Right-handed-bat",
+    "bowlingStyle": "Left-handed-ball",
+    "price": 300000,
+    "image": "https://i.ibb.co.com/Bfjvy6G/pexels-case-originals-3602833.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Hossain Alif",
+    "country": "India",
+    "role": "Bowler",
+    "battingStyle": "N/A",
+    "bowlingStyle": "Left-handed-ball",
+    "price": 200000,
+    "image": "https://i.ibb.co.com/fxBM6Ly/images.jpg"
+  }
+]
